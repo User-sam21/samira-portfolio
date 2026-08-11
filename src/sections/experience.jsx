@@ -1,14 +1,14 @@
 
 const experiences = [
-  {
-    period: "April 2026 — Present",
-    role: "Customer Service Agent",
-    company: "Cash Plus — Casablanca",
-    description:
-      "Welcoming and assisting customers on a daily basis. Handling money transfer and payment transactions while ensuring accurate, efficient, and professional service.",
-    technologies: [],
-    current: true,
-  },
+  // {
+  //   period: "April 2026 — Present",
+  //   role: "Customer Service Agent",
+  //   company: "Cash Plus — Casablanca",
+  //   description:
+  //     "Welcoming and assisting customers on a daily basis. Handling money transfer and payment transactions while ensuring accurate, efficient, and professional service.",
+  //   technologies: [],
+  //   current: true,
+  // },
 
   {
     period: "February 2026 — March 2026",
@@ -21,14 +21,14 @@ const experiences = [
       "GetX",
       "REST API",
       "Git",
-      "Visual Studio Code",
+      "VS Code",
     ],
     current: false,
   },
 
   {
     period: "February 2025 — August 2025",
-    role: "Mobile Development Intern — Final Year Project",
+    role: "Mobile Development Intern",
     company: "E-AMBITION — Rabat",
     description:
       "Developed a cross-platform project management mobile application for iOS and Android using Flutter. Contributed to the application design, developed multiple screens, integrated APIs, and implemented the application environment configuration.",
